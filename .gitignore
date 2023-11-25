@@ -30,3 +30,6 @@ coverage
 .env
 # Local Netlify folder
 .netlify
+
+babel.config.js
+jest.config.js
