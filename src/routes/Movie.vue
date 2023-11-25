@@ -165,6 +165,7 @@ export default {
   .specs {
     flex-grow: 1;
     .title {
+      flex-wrap: wrap;
       color: $black;
       font-family: 'Oswald', sans-serif;
       font-size: 70px;
