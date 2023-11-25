@@ -171,6 +171,9 @@ export default {
       font-size: 70px;
       line-height: 1%;
       margin-bottom: 30px;
+      overflow: hidden; /* 추가 */
+      text-overflow: ellipsis; /* 추가 */
+      white-space: nowrap; /* 추가 */
     }
     .labels {
       color: $primary;
